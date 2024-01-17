@@ -1,0 +1,513 @@
+[
+    {
+      "name": "Maruthi Baleno",
+      "price": "6.61 LAC",
+      "engine": "1197cc",
+      "power": "76.3-88.5bhp",
+      "imageUrl":
+        "https://imgd-ct.aeplcdn.com/664x415/cw/ec/19751/Maruti-Suzuki-Baleno-Exterior-118756.jpg?wm=0&q=80",
+      "mileage": "23 KM/L",
+      "fuel": "petrol/CNG",
+      "groundClearance": "170 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "113NM@4400rpm",
+      "bodyType": "Hatchback",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Tata punch",
+      "price": "6-10.10 LAC",
+      "engine": "1199cc",
+      "power": "72.41-86.5bhp",
+      "imageUrl":
+        "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/39015/punch-exterior-left-front-three-quarter-4.jpeg?isig=0&q=80",
+    "mileage":"24 KM/L",
+      "fuel": "petrol/CNG",
+      "groundClearance": "170 mm",
+      "numberOfCylinders": "3",
+      "maxTorque": "115Nm@3250+/-100rpm",
+      "bodyType": "Hatchback",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Tata Nexon",
+      "price": "8.10-15.50 LAC",
+      "engine": "1199cc-1497cc",
+      "power": "113-118.27 bhp",
+      "imageUrl":
+        "https://5.imimg.com/data5/UA/TS/GLADMIN-69888824/tata-nexon-car.jpg",
+      "mileage": "17.01-24.08 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "208 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "260NM@1500-2750rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Tata Safari",
+      "price": "16.19-27.34 LAC",
+      "engine": "1956cc",
+      "power": "167.62 bhp",
+      "imageUrl":
+        "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20231009033910_Accomplished%20_%20Front%203_4th%20new.jpg&w=736&h=488&q=75&c=1",
+      "mileage": "16.3 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "205 mm",
+      "numberOfCylinders": "6,7",
+      "maxTorque": "350NM@1750-2500rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Tata Harrier",
+      "price": "15.49-26.44 LAC",
+      "engine": "1956 cc",
+      "power": "167.62 bhp",
+      "imageUrl":
+        "https://d2m3nfprmhqjvd.cloudfront.net/blog/20230217180351/Harrier-red-1160x769.webp",
+      "mileage": "16.8 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "205 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "350NM@1750-2500rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic/Manual"
+    },
+  
+    {
+      "name": "Hyundai Creta",
+      "price": "10.87-19.70 LAC",
+      "engine": "1493-1498cc",
+      "power": "113.18-113.98 bhp",
+      "imageUrl": "https://imgd-ct.aeplcdn.com/664x415/n/xqkcs0b_1641703.jpg?q=80",
+      "mileage": "14-18 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "190 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "250NM@1500-2750rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Hyumdai Verna",
+      "price": "10.96-17.38 LAC",
+      "engine": "1482-1497cc",
+      "power": "113-157 bhp",
+      "imageUrl":
+        "https://static.autox.com/uploads/2023/03/2023-Hyundai-Verna-1-.jpg",
+      "mileage": "18.6-20.5 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "165 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "253NM@1500-3500rpm",
+      "bodyType": "sedan",
+      "transmissionType": "Manual/Automatic"
+    },
+  
+    {
+      "name": "Hyundai Tucson",
+      "price": "29.02-35.94 LAC",
+      "engine": "1997-1999cc",
+      "power": "153-193.72 bhp",
+      "imageUrl":
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+      "mileage": "18.0 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "192 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "416NM2000-2750rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Hyundai i20",
+      "price": "6.99-11.21 LAC",
+      "engine": "1197cc",
+      "power": "81.8-86.76 bhp",
+      "imageUrl":
+        "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20201105013406_Hyundai-i20-front-1.jpg&w=730&h=484&q=75&c=1",
+      "mileage": "16-20 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "170 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "114.7NM@4200rpm",
+      "bodyType": "Hatchback",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Mahindra XUV700",
+      "price": "14.03-26.57 LAC",
+      "engine": "1999-2198 cc",
+      "power": "152.87-197.13 bhp",
+      "imageUrl":
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/10797/1697700268052/front-left-side-47.jpg?impolicy=resize&imwidth=220",
+      "mileage": "17.19 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "200 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "450NM@1750-2800rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Mahindra Thar",
+      "price": "10.98-16.94 LAC",
+      "engine": "1497-2184 cc",
+      "power": "116.93-150.19 bhp",
+      "imageUrl":
+        "https://auto.mahindra.com/-/media/project/mahindra/dotcom/mahindra/dark-theme-mahindra-images/features-and-specifications/thar/mahindra-thar-red-rage.jpg?rev=8fdd2f8a4376422793791470360eed25",
+      "mileage": "15.2 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "226 mm",
+      "numberOfCylinders": "4 ",
+      "maxTorque": "300NM@1600-2800rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Mahindra bolero Neo",
+      "price": "9.64-12.15 LAC",
+      "engine": "1493 cc",
+      "power": "98.56 bhp",
+      "imageUrl":
+        "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Bolero-Neo/10766/1690267562292/front-left-side-47.jpg",
+      "mileage": "17.96 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "180 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "260NM@1750-2250rpm",
+      "bodyType": "suv",
+      "transmissionType": "Manual"
+    },
+  
+    {
+      "name": "Honda Amaze",
+      "price": "7.16-9.92 LAC",
+      "engine": "1199 cc",
+      "power": "88.5 bhp",
+      "imageUrl":
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+      "mileage": "19.3-19.6 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "170 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "110NM@4800rpm",
+      "bodyType": "sedan",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Honda Elevate",
+      "price": "11.58-16.20 LAC",
+      "engine": "1498 cc",
+      "power": "116bhp",
+      "imageUrl":
+        "https://www.v3cars.com/media/model-imgs/1686038528-honda-elevate.webp",
+      "mileage": "15.31-16.92 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "220 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "145NM@4300rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Honda City",
+      "price": "11.71-16.19 LAC",
+      "engine": "1498cc",
+      "power": "119.35 bhp",
+      "imageUrl":
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg",
+      "mileage": "17.8-18.4 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "165 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "145NM@4300rpm",
+      "bodyType": "sedan",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Toyoto Innova Crysta",
+      "price": "19.99-26.30 LAC",
+      "engine": "2393 cc",
+      "power": "147.51 bhp",
+      "imageUrl":
+        "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Innova-Crysta/9612/1697698611076/front-left-side-47.jpg",
+      "mileage": "12 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "178 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "343NM@1400-2800rpm",
+      "bodyType": "muv",
+      "transmissionType": "Manual"
+    },
+  
+    {
+      "name": "Toyota Fortuner",
+      "price": "33.43-51.44 LAC",
+      "engine": "2694-2755 cc",
+      "power": "163-201.15 bhp",
+      "imageUrl":
+        "https://www.livemint.com/lm-img/img/2023/07/07/1600x900/2-0-1412968002-Toyota-Fortuner2-0_1679755299241_1688702370139.jpg",
+      "mileage": "10 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "225 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "500NM@1600-2800rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Toyota Hilux",
+      "price": "30.40-37.90 LAC",
+      "engine": "2755 cc",
+      "power": "201.15 bhp",
+      "imageUrl":
+        "https://spn-sta.spinny.com/blog/20220228144544/Toyota-Hilux-feature.jpg?compress=true&quality=80&w=400&dpr=2.6",
+      "mileage": "12.6 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "220 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "201.15NM@3000-3400rpm",
+      "bodyType": "pickup truck",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Kia Seltos",
+      "price": "10.90-20.30 LAC",
+      "engine": "1482-1497 cc",
+      "power": "113.42-157.81 bhp",
+      "imageUrl":
+        "https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/seltos/showroom/Seltos-showroom-banner-desktop.jpg",
+      "mileage": "17-20.7 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "190 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "250NM@1500-2750rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Kia Carens",
+      "price": "10.45-19.45 LAC",
+      "engine": "1482-1497 cc",
+      "power": "113.42-157.81 bhp",
+      "imageUrl":
+        "https://media.zigcdn.com/media/model/2023/Mar/front-1-4-left-1606785882_930x620.jpg",
+      "mileage": "21 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "195 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "250NM@1500-2750rpm",
+      "bodyType": "muv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "MG Hector",
+      "price": "15-22 LAC",
+      "engine": "1451-1956 cc",
+      "power": "141-167.76 bhp",
+      "imageUrl":
+        "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+      "mileage": "15.58 KM/L",
+      "fuel": "petrol/Diesel",
+      "groundClearance": "192 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "250NM@1600-3600rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "MG Gloster",
+      "price": "38.80-43.87 LAC",
+      "engine": "1996 cc",
+      "power": "158.79-212.55 bhp",
+      "imageUrl":
+        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202305/whatsapp-image-2023-05-29-at-1-sixteen_nine.jpg",
+      "mileage": "12.04-13.92 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "210 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "478.5NM@1500-2400rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Skoda Slavia",
+      "price": "11.53-19.12 LAC",
+      "engine": "999-1498 cc",
+      "power": "113.98-147.52 bhp",
+      "imageUrl":
+        "https://i.pinimg.com/736x/c3/fd/b8/c3fdb89f217bc0dbb4b724d638cbbce5.jpg",
+      "mileage": "18.07-20.37 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "179 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "250NM@1600-3500rpm",
+      "bodyType": "sedan",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Skoda Kodiaq",
+      "price": "38.50-41.99 LAC",
+      "engine": "1984cc",
+      "power": "187.4bhp",
+      "imageUrl":
+        "https://static.toiimg.com/thumb/msid-100002775,width-1280,height-720,resizemode-4/100002775.jpg",
+      "mileage": "12.78 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "140 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "320NM@1500-4100rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Jeep Compass",
+      "price": "20.49-32.07 LAC",
+      "engine": "1956 cc",
+      "power": "167.67 bhp",
+      "imageUrl":
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg",
+      "mileage": "14.9-17.1 KM/L",
+      "fuel": "Diesel",
+      "groundClearance": "178 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "350NM@1750-2500rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Jeep Wrangler",
+      "price": "62.65-66.65 LAC",
+      "engine": "1998 cc",
+      "power": "265.3 bhp",
+      "imageUrl":
+        "https://www.financialexpress.com/wp-content/uploads/2023/04/2024-Jeep-Wrangler-3.jpg",
+      "mileage": "12.1 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "217 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "256.30NM@5150-5250rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Nissan Magnite",
+      "price": "6-11.27 LAC",
+      "engine": "999 cc",
+      "power": "71.02-98.63 bhp",
+      "imageUrl":
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/2020_Nissan_Magnite_front_view_%28India%29_01.png",
+      "mileage": "17.4-20.0 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "205 mm",
+      "numberOfCylinders": "3",
+      "maxTorque": "152NM@2200-4400rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Renault Kwid",
+      "price": "4.70-6.45 LAC",
+      "engine": "999cc",
+      "power": "67.02 bhp",
+      "imageUrl":
+        "https://images.carandbike.com/car-images/large/renault/kwid/renault-kwid.jpg?v=84",
+      "mileage": "21.46-22.3 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "184 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "91NM@4250rpm",
+      "bodyType": "Hatchback",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Renault Triber",
+      "price": "6-8.97 LAC",
+      "engine": "999 cc",
+      "power": "71.01 bhp",
+      "imageUrl":
+        "https://media.zigcdn.com/media/model/2022/Aug/3d-model--774504576_930x620.jpg",
+      "mileage": "18.2-20.0 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "182 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "96NM@3500rpm",
+      "bodyType": "Muv",
+      "transmissionType": "Manual/Automatic"
+    },
+  
+    {
+      "name": "Renault Kiger",
+      "price": "6-11.23 LAC",
+      "engine": "999-1199 cc",
+      "power": "71.0-98.63 bhp",
+      "imageUrl":
+        "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20201118022425_Renault-Kiger-concept-front-action.jpg&w=730&h=484&q=75&c=1",
+      "mileage": "18.24-20.5 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "205 mm",
+      "numberOfCylinders": "3",
+      "maxTorque": "152NM@2200-4400rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Maruthi Brezza",
+      "price": "8.29-14.14 LAC",
+      "engine": "1462 cc",
+      "power": "86.63-101.64 bhp",
+      "imageUrl":
+        "https://www.carlelo.com/laravel/public/uploads/model/1674193282.webp",
+      "mileage": "17.38-19.8 KM/L",
+      "fuel": "petrol/CNG",
+      "groundClearance": "198 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "136.8NM@4400rpm",
+      "bodyType": "suv",
+      "transmissionType": "automatic"
+    },
+  
+    {
+      "name": "Maruthi Ertiga",
+      "price": "8.64-13.08 LAC",
+      "engine": "1462 cc",
+      "power": "86.63-101.64 bhp",
+      "imageUrl":
+        "https://www.wheels97.com/tr:w-500,h-400,dpr-2.625/images/car-exterior-images/maruti/maruti-ertiga/front-left-side_l63Sbp60Y.jpg",
+      "mileage": " 20-21 KM/L",
+      "fuel": "petrol",
+      "groundClearance": "180 mm",
+      "numberOfCylinders": "4",
+      "maxTorque": "136.8NM@4400rpm",
+      "bodyType": "muv",
+      "transmissionType": "Manual/Automatic"
+    }
+  ]
+  

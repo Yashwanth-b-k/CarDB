@@ -12,11 +12,16 @@ body{
   margin: auto;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   background-color: #45474B;
   padding: 1%;
   border-bottom: 5px solid #495E57;
-  overflow: hidden;
-  position: sticky;
+}
+
+.search input{
+  width: 300px;
+  padding: 15px;
+  outline: none;
 }
 
 .logo{
@@ -196,7 +201,7 @@ background-color: black;
 
 .content{
   width: 90%;
-  height: 120vh;
+  height: 130vh;
   margin: 150px auto;
   background-color: #495e5731;
   padding: 30px;
@@ -232,3 +237,4 @@ background-color: black;
 .card-name h3, h2{
   margin: 0px;
 }
+
