@@ -4,10 +4,11 @@ const cardDOM = document.querySelector('.card-container');
 const searchTextDOM = document.querySelector('.searchText');
 const searchBtnDOM = document.querySelector('.searchBtn');
 
-const populate = async (name) => {
+let page = 1;
+const populate = async (name,page) => {
     try {
         cardDOM.innerHTML = `<h5 class="empty-list">Loading.......</h5>`;
-        const {data:{cars}} =await axios.get(`/api/vehicle/cars?name=${name}`);
+        const { data: { cars } } = await axios.get(`/api/vehicle/cars?name=${name}&page=${page}`);
         if (cars.length<1){
             cardDOM.innerHTML = `no cars to show from database`;
             return;
@@ -32,7 +33,11 @@ const populate = async (name) => {
             </div>
         </div>`
         }).join('');
-        cardDOM.innerHTML = allCars;
+        cardDOM.innerHTML = allCars+`
+        <div class="page">
+        <button class="navi" onclick="prev()"><-prev</button>
+        <button class="navi" onclick="next()">next-></button>
+      </div>`;
 
    
     } catch (error) {
@@ -43,7 +48,19 @@ const populate = async (name) => {
 
 const filter = async()=>{
     const name = searchTextDOM.value;
-    populate(name);
+    populate(name,1);
 }
+const prev = async()=>{
+    if(page>1){
+        const name = searchTextDOM.value;
+        page--;
+        populate(name,page)
+    }
 
-populate('');
+}
+const next = async()=>{
+    const name = searchTextDOM.value;
+    page++;
+    populate(name,page)
+}
+populate('',1);

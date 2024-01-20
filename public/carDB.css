@@ -229,3 +229,26 @@ body{
     .empty-list{
       text-align: center;
     }
+
+    .page{
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .navi {
+      margin: 20px 200px;
+      background-color: #495e574d;
+      cursor: pointer;
+      border: none;
+      border-radius: 20px;
+      width: 92px;
+      height: 30px;
+  }
+
+    .navi:hover{
+      background-color: #45474ba5;
+    }
+
+    .navi:active{
+      background-color: #495e5700;
+    }
