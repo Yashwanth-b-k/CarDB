@@ -16,4 +16,3 @@ cmd ->  node populate
 <!-- host -->
 cmd -> nmp start
 # Cars
-# CarDB
