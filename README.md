@@ -14,5 +14,5 @@ localhost:3000
 cmd ->  node populate
 
 <!-- host -->
-cmd -> nmp start
+cmd -> npm start
 # Cars
