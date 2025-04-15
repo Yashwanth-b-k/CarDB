@@ -9,8 +9,10 @@ app.use(express.static('./public'));
 app.use(express.json());
 app.use('/api/vehicle/cars',car)
 
+// add your own PORT number in .env or use default port 3000
 const port = process.env.PORT || 3000;
 
+//add your MONGO_URI in .env file
 const start = async ()=>{
     try {
         await connectDB(process.env.MONGO_URI);
