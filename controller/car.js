@@ -1,5 +1,6 @@
 const Car = require("../model/cars");
 
+// create a car
 const createCar = async (req, res) => {
   try {
     const car = await Car.create(req.body);
@@ -10,6 +11,7 @@ const createCar = async (req, res) => {
   }
 };
 
+// get all car from DB with query
 const getAllCars = async (req, res) => {
   try {
     const { name } = req.query;
@@ -33,6 +35,7 @@ const getAllCars = async (req, res) => {
   }
 };
 
+// get a single car from DB
 const getCar = async (req, res) => {
   try {
     const { id: carID } = req.params;
@@ -49,6 +52,7 @@ const getCar = async (req, res) => {
   }
 };
 
+// update the car details 
 const updateCar = async (req, res) => {
   try {
     const { id: carID } = req.params;
@@ -68,6 +72,7 @@ const updateCar = async (req, res) => {
   }
 };
 
+// delete a car from DB
 const deleteCar = async (req, res) => {
   try {
     const { id: carId } = req.params;
