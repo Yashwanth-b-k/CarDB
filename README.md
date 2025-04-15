@@ -1,8 +1,13 @@
 <!------live site------->
 Live Site : https://cardb-43ts.onrender.com
- 
+
+ cmd -> npm install
  <!-- dependencies -->
-cmd -> npm install
+ dotenv,
+ express,
+ express-async-errors,
+ mongoose
+ <!---->
 
 <!-- connection -->
 add your own MONGO_URI in .env file
